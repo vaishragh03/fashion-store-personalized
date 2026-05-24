@@ -104,7 +104,7 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for full GitHub + Render + Vercel steps.
 | Setup & run steps | This README |
 | Deployment guide | [DEPLOYMENT.md](./DEPLOYMENT.md) |
 | API documentation | [API.md](./API.md) |
-| GitHub repo | _(add your link after push)_ |
+| GitHub repo | (https://github.com/vaishragh03/fashion-store-personalized)
 | Live frontend | _(add Vercel URL after deploy)_ |
 | Live backend | _(add Render URL after deploy)_ |
 | Demo video | _(record using script in DEPLOYMENT.md)_ |
