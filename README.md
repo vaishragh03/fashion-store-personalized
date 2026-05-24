@@ -105,9 +105,9 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for full GitHub + Render + Vercel steps.
 | Deployment guide | [DEPLOYMENT.md](./DEPLOYMENT.md) |
 | API documentation | [API.md](./API.md) |
 | GitHub repo | (https://github.com/vaishragh03/fashion-store-personalized)
-| Live frontend | _(add Vercel URL after deploy)_ |
-| Live backend | _(add Render URL after deploy)_ |
-| Demo video | _(record using script in DEPLOYMENT.md)_ |
+| Live frontend | (https://fashion-store-personalized.vercel.app/)
+| Live backend | _(https://fashion-store-personalized-ca2a.onrender.com/)
+| Demo video | _(https://drive.google.com/file/d/1mdVR6P-iWM69ywFUAKDObgFF3kzkBjJ9/view?usp=sharing)
 
 ## Fix product images
 
